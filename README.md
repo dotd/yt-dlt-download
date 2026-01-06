@@ -16,7 +16,7 @@ yt-dlp --cookies-from-browser chrome --cookies ./dotan_cookies.txt https://www.y
 
 ## Some git
 
-'''
+```
 echo "# yt-dlt-download" >> README.md
 git init
 git add README.md
@@ -24,4 +24,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/dotd/yt-dlt-download.git
 git push -u origin main
-'''
+```
